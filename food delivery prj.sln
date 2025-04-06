@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDeliveryApi", "FoodDeliveryApi\FoodDeliveryApi.csproj", "{9551084B-388E-6A51-1E91-F3C283BA5E05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDeliveryBackend", "FoodDeliveryBackend\FoodDeliveryBackend.csproj", "{A248E140-F1EF-83D3-6FDB-5FDD0B687825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9551084B-388E-6A51-1E91-F3C283BA5E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9551084B-388E-6A51-1E91-F3C283BA5E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9551084B-388E-6A51-1E91-F3C283BA5E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9551084B-388E-6A51-1E91-F3C283BA5E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A248E140-F1EF-83D3-6FDB-5FDD0B687825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A248E140-F1EF-83D3-6FDB-5FDD0B687825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A248E140-F1EF-83D3-6FDB-5FDD0B687825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A248E140-F1EF-83D3-6FDB-5FDD0B687825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7A5EB00-F814-4EF8-AF72-F5E9A1A04397}
+	EndGlobalSection
+EndGlobal
